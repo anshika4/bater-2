@@ -72,7 +72,7 @@ visible={this.state.isVisible}
 <View style={styles.modalContainor}>
 <ScrollView style={{width:'100%'}}>
 <KeyboardAvoidingView style={styles.KeyboardAvoidingView}>
-<Text style={styles.modalTitle}>Registration</Text>
+<Text style={styles.modalTitle}>Register</Text>
 
 <TextInput
 style={styles.TextInput}
