@@ -154,7 +154,7 @@ confirmPassword: text
 
 <TouchableOpacity style={styles.regesterButton} 
 onPress={()=>this.signUp(this.state.emailId, this.state.password, this.state.confirmPassword)}>
-<Text style={styles.register}>Rigestration</Text>
+<Text style={styles.register}>Register</Text>
 </TouchableOpacity>
 
 <TouchableOpacity style={styles.regesterButton} 
